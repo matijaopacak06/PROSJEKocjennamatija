@@ -1,0 +1,7 @@
+C:\Users\Ucenik\source\repos\Prosjekocjena_matija\Prosjekocjena_matija\obj\Debug\Prosjekocjena_matija.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Prosjekocjena_matija\Prosjekocjena_matija\obj\Debug\Prosjekocjena_matija.Form1.resources
+C:\Users\Ucenik\source\repos\Prosjekocjena_matija\Prosjekocjena_matija\obj\Debug\Prosjekocjena_matija.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Prosjekocjena_matija\Prosjekocjena_matija\obj\Debug\Prosjekocjena_matija.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Prosjekocjena_matija\Prosjekocjena_matija\obj\Debug\Prosjekocjena_matija.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Prosjekocjena_matija\Prosjekocjena_matija\obj\Debug\Prosjekocjena_matija.exe
+C:\Users\Ucenik\source\repos\Prosjekocjena_matija\Prosjekocjena_matija\obj\Debug\Prosjekocjena_matija.pdb
